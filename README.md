@@ -191,7 +191,7 @@ this section isnt meant to be an exhaustive source of information on security, b
 ## Recommended Reading
 
 These books are available on for WVU Library Employees. You may not distribute
-these books. If you your employement with WVU Libraries is terminated, you must
+these books. If you your employment with WVU Libraries is terminated, you must
 delete these books from your computer/device.
 
 The books are located in this private Repo:
